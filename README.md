@@ -15,4 +15,4 @@ Here is our team Capstone Product Based repository for Coding Camp 2025 Capstone
 ## About this project
 SIUDIN: Technology-Based Learning Innovation to Improve Access and Quality of Education in Indonesia
 ## Documentation
-[LinkedIn](https://drive.google.com/drive/folders/1XysaW9_cC8t_dLSYfedou0igh9zNiy7n?usp=drive_link)
+[Documentation](https://drive.google.com/drive/folders/1XysaW9_cC8t_dLSYfedou0igh9zNiy7n?usp=drive_link)
