@@ -16,3 +16,8 @@ Here is our team Capstone Product Based repository for Coding Camp 2025 Capstone
 SIUDIN: Technology-Based Learning Innovation to Improve Access and Quality of Education in Indonesia
 ## Documentation
 [Documentation](https://drive.google.com/drive/folders/1XysaW9_cC8t_dLSYfedou0igh9zNiy7n?usp=drive_link)
+## Repository
+| Branch Name           | Branch Link                           |
+|-----------------------|---------------------------------------|
+| Machine Learning      | [ML Branch](https://github.com/TIMCAPSTONE-CC25-CF076/ML)   |
+| Front-End dan Back-End| [FEBE Branch](https://github.com/TIMCAPSTONE-CC25-CF076/FEBE)   |
