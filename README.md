@@ -8,7 +8,7 @@ Here is our team Capstone Product Based repository for Coding Camp 2025 Capstone
 | M. Rewa Rahmatullah        | MC284D5Y1905	  | Machine Learning                 | [LinkedIn](www.linkedin.com/in/rewarahmatullah) or [GitHub]((https://github.com/Rewarahmatullah) |
 | Jelang Ramadhan            | MC284D5Y1296   | Machine Learning                 | [LinkedIn](https://www.linkedin.com/in/jelangramadhan/) or [GitHub](https://github.com/JelangR) |
 | Diva Nur Rohmahwati        | MC129D5X0206   | Machine Learning                 | [LinkedIn](#) or [GitHub](#) |
-| Adelia Tabita Sihotang     | FC834D5X0344   | Front-End dan Back-End Developer | [LinkedIn](#) or [GitHub](#) |
+| Adelia Tabita Sihotang     | FC834D5X0344   | Front-End dan Back-End Developer | [LinkedIn](www.linkedin.com/in/adelia-tabita-sihotang-653272267) or [GitHub](https://github.com/gazelle08) |
 | Irenius Bonan              | FC764D5Y0350   | Front-End dan Back-End Developer | [LinkedIn](#) or [GitHub](#) |
 | Cep Gifary Habibi Robani   | FC005D5Y1382   | Front-End dan Back-End Developer | [LinkedIn](#) or [GitHub](#) |
 
@@ -26,6 +26,6 @@ SIUDIN: Technology-Based Learning Innovation to Improve Access and Quality of Ed
 Dataset Links of This Project : 
 [Dataset](#)
 ## UI/UX Design
-[UI/UX Design](#)
+[UI/UX Design](https://www.figma.com/design/ZsPMOZMPEpQYAN5pxvahaF/SiUdin-Ui?node-id=0-1&t=A45NF6vFRICqgGdU-1)
 ## SIUDIN
 [SIUDIN](#)
