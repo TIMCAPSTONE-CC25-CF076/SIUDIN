@@ -1,2 +1,2 @@
 # SIUDIN
-CAPSTONE PROJECT GABUNGAN
+Coding Camp Capstone Project
