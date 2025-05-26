@@ -21,3 +21,11 @@ SIUDIN: Technology-Based Learning Innovation to Improve Access and Quality of Ed
 |-----------------------|---------------------------------------|
 | Machine Learning      | [ML Branch](https://github.com/TIMCAPSTONE-CC25-CF076/ML)   |
 | Front-End dan Back-End| [FEBE Branch](https://github.com/TIMCAPSTONE-CC25-CF076/FEBE)   |
+
+## Datasets
+Dataset Links of This Project : 
+[Dataset](#)
+## UI/UX Design
+[UI/UX Design](#)
+## SIUDIN
+[SIUDIN](#)
