@@ -5,7 +5,7 @@ Here is our team Capstone Product Based repository for Coding Camp 2025 Capstone
 ## Our Soldiers
 | Name                       | Bangkit-ID     | Learning Path                    | Contact Link                 |
 |----------------------------|----------------|----------------------------------|------------------------------|
-| M. Rewa Rahmatullah        | MC284D5Y1905	  | Machine Learning                 | [LinkedIn](www.linkedin.com/in/rewarahmatullah) or [GitHub](https://github.com/Rewarahmatullah) |
+| M. Rewa Rahmatullah        | MC284D5Y1905	  | Machine Learning                 | [LinkedIn](www.linkedin.com/in/rewarahmatullah/) or [GitHub](https://github.com/Rewarahmatullah) |
 | Jelang Ramadhan            | MC284D5Y1296   | Machine Learning                 | [LinkedIn](https://www.linkedin.com/in/jelangramadhan/) or [GitHub](https://github.com/JelangR) |
 | Diva Nur Rohmahwati        | MC129D5X0206   | Machine Learning                 | [LinkedIn](#) or [GitHub](#) |
 | Adelia Tabita Sihotang     | FC834D5X0344   | Front-End dan Back-End Developer | [LinkedIn](www.linkedin.com/in/adelia-tabita-sihotang-653272267) or [GitHub](https://github.com/gazelle08) |
